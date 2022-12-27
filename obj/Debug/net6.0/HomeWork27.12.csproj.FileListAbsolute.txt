@@ -1,0 +1,15 @@
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\bin\Debug\net6.0\HomeWork27.12.exe
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\bin\Debug\net6.0\HomeWork27.12.deps.json
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\bin\Debug\net6.0\HomeWork27.12.runtimeconfig.json
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\bin\Debug\net6.0\HomeWork27.12.dll
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\bin\Debug\net6.0\HomeWork27.12.pdb
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\obj\Debug\net6.0\HomeWork27.12.csproj.AssemblyReference.cache
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\obj\Debug\net6.0\HomeWork27.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\obj\Debug\net6.0\HomeWork27.12.AssemblyInfoInputs.cache
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\obj\Debug\net6.0\HomeWork27.12.AssemblyInfo.cs
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\obj\Debug\net6.0\HomeWork27.12.csproj.CoreCompileInputs.cache
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\obj\Debug\net6.0\HomeWork27.12.dll
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\obj\Debug\net6.0\refint\HomeWork27.12.dll
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\obj\Debug\net6.0\HomeWork27.12.pdb
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\obj\Debug\net6.0\HomeWork27.12.genruntimeconfig.cache
+C:\Users\stasy\OneDrive\Рабочий стол\ДЗ27.12\HomeWork27.12\obj\Debug\net6.0\ref\HomeWork27.12.dll
